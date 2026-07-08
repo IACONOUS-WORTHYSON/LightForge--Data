@@ -130,18 +130,13 @@ Source: `diamond_cvd_fabrication_model.py` console output. Baseline 5.0 µm/hr, 
 
 ---
 
-## Author's Declaration and Public-Domain / Prior-Art Dedication
+## License
 
-I, **Elad David Levi**, being the author and originator of this work, make the following declaration:
+This project is governed by [The 75th Avenue License v3.0](LICENSE) — a single, unified instrument (no tiers) issued by IACONOUS WORTHYSON (Elad David Levi). In short:
 
-1. **Declaration of Authorship and Originality.** I affirm that this work — including all associated text, data, source code, models, and figures — is my own original creation, and that it has not been copied, stolen, plagiarized, or otherwise misappropriated from any other person or entity.
+- **Free for individuals and non-profits.** Use, study, modify, and distribute the Works freely, with attribution.
+- **Companies need written permission.** No for-profit entity may use the Works, commercially or otherwise, without the license holder's express written consent — there is no standard fee or automatic path in.
+- **Prior art, not a patent grab.** The Works, and this instrument, are publicly and irrevocably disclosed as prior art. No one — including the license holder — may patent the concepts described here.
+- **Prohibited uses** (absolute, non-negotiable): AI training/fine-tuning on the Works, surveillance systems, disinformation/manipulation, and any patent filing that reads on the disclosed concepts.
 
-2. **Waiver and Dedication to the Public Domain.** To the fullest extent permitted by applicable law, I hereby irrevocably waive, abandon, and dedicate to the public domain any and all copyright and neighboring or related rights that I hold in this work, worldwide, for the full term of such rights. This dedication is made freely, voluntarily, and without reservation, in the spirit and intent of established public-domain dedications such as the Creative Commons CC0 1.0 Universal Public Domain Dedication.
-
-3. **Defensive Publication as Prior Art.** This work is hereby publicly and irrevocably disclosed as prior art, with the express intent that its contents — including the ideas, methods, models, and combinations of techniques described herein — enter the public domain and the state of the art, so that no person or entity may lawfully claim, patent, or otherwise assert exclusive rights over them on the basis of having originated them.
-
-4. **Irrevocability and Free Expression.** This disclosure and dedication are made pursuant to, and in exercise of, my rights to free expression under applicable law, and are intended by me to be permanent and irrevocable once published. I do not consent to, and reserve no right to compel, the suppression, retraction, or removal of this disclosure. This declaration states solely my own irrevocable intent and consent as author, and does not purport to limit or override the independent legal rights or obligations of any third party or hosting platform.
-
-5. **No Warranty.** This work is dedicated to the public domain and disclosed "as is," without warranty of any kind, express or implied, including without limitation any warranty of accuracy, merchantability, or fitness for a particular purpose.
-
-Executed by the author, Elad David Levi.
+See the [LICENSE](LICENSE) file for the full text, including the author's declaration of authorship, originality, and the public-domain waiver of whatever residual rights this License doesn't itself address.

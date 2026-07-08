@@ -1,201 +1,361 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+========================================================================
+                    THE 75TH AVENUE LICENSE
+                          Version 3.0
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+                A Licensed Instrument of the 75th Avenue Framework
+                   Authored by IACONOUS WORTHYSON . Jerusalem . MMXXVI
 
-   1. Definitions.
+         This instrument is commercially issued.
+               One license per project. Permanently held.
+               No tiers. No company use without written permission.
+========================================================================
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+                    CERTIFICATE OF ISSUANCE
+                    75th Avenue License v3.0
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+  Issuance No.:   75AV-3-__________
+  Issued to:      IACONOUS WORTHYSON (Elad David Levi)
+  Project:        LightForge -- "The Journey: Building Diamonds With
+                  Light" (light-field/NPLIN nucleation models, the
+                  glycine calibration and bell-variant analyses, and the
+                  diamond CVD fabrication-time model; repository
+                  LightForge--Data)
+  Date of Issue:  08/07/2026
+  Issued by:      IACONOUS WORTHYSON (Elad David Levi) . 75th Avenue
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+  This certificate is a unique instrument.
+  It is valid for the named project only.
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+========================================================================
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+                          -- PREAMBLE --
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
+THIS INSTRUMENT is a commercially issued license, authored by IACONOUS
+WORTHYSON under the 75th Avenue licensing framework, and merges into
+itself the personal declaration of its author -- Elad David Levi -- set
+out in Article II below. It is not the exclusive property of any work.
+It is a governing instrument -- available to any inventor, developer, or
+creator who acquires it -- to protect and govern the work named in the
+Certificate of Issuance above.
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
+The 75th Avenue License v3.0 carries the same philosophical foundation
+as its parent instrument: that creative and technical works of genuine
+novelty belong, first, to the people who can build with them without
+extracting from them -- and are withheld, by default, from commercial
+entities absent the license holder's express written permission. In
+this issuance, the author of the LICENSE and the author of the WORK are
+the same person, appearing under both a legal name and a chosen
+designation; both are declared in Article II.
 
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
+The Works governed by this specific issuance are defined by the holder
+named in the Certificate of Issuance. Where the license holder is a
+different person than the license author in some future issuance of
+this framework, the license author -- IACONOUS WORTHYSON -- holds no
+claim over those Works beyond the right to be named as the author of
+this instrument.
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
 
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
+========================================================================
+              Article I -- The Declaration of Prior Art
+========================================================================
 
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
+S 1.1  This License, together with all public deposits of the Works
+made by the license holder, constitutes a public disclosure of prior
+art under applicable patent law. The publication date of each deposit
+is evidence that the disclosed concepts existed prior to any
+subsequently filed patent application reading upon them.
 
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
+S 1.2  From the moment of first public deposit, the Works and all
+concepts substantially described therein become unpatentable prior art.
+Any patent claim that reads upon this disclosure is invalid by operation
+of prior art law, regardless of filing date. This applies in full to the
+projected diamond CVD fabrication-time combination described in the
+Works -- UV-assisted growth, femtosecond-laser nucleation seeding, and
+femtosecond-laser defect correction, combined -- and to the light-field
+nucleation models and their calibration against real glycine NPLIN data,
+including the honest negative result of that calibration.
 
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
+S 1.3  This declaration is the constitutional foundation of this
+License. All other provisions rest upon it. It cannot be waived,
+modified, or transferred by any party under any circumstance.
 
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
+S 1.4  The license holder is strongly recommended to deposit their
+Works to: Zenodo (CERN); OpenTimestamps (Bitcoin blockchain); and a
+public GitHub repository. These three deposits form the strongest
+available evidentiary record.
 
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
 
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
+========================================================================
+              Article II -- Declaration of the Author
+========================================================================
 
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
+S 2.1  AUTHORSHIP AND ORIGINALITY. I, Elad David Levi -- known also
+under the name and designation IACONOUS WORTHYSON -- being the author
+and originator of the Works named in the Certificate of Issuance above,
+declare that the Works are my own original creation, and that they have
+not been copied, stolen, plagiarized, or otherwise misappropriated from
+any other person or entity.
 
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
+S 2.2  PUBLIC-DOMAIN WAIVER, SUBORDINATE TO THIS LICENSE. To the extent
+I hold any copyright or neighboring right in the Works beyond what is
+expressly governed by this License, I irrevocably waive, abandon, and
+dedicate that residual right to the public domain, worldwide, for the
+full term of such rights, in the spirit and intent of the Creative
+Commons CC0 1.0 Universal Public Domain Dedication. This waiver does
+not diminish, narrow, or contradict the rights, restrictions, and
+reservations expressly retained and asserted elsewhere in this License
+-- including the eligibility restriction of Article III and the patent
+shield of Article V. Where the two could be read in conflict, the
+specific operative terms of this License control, and this waiver
+operates only as to whatever residue of rights this License does not
+itself address.
 
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
+S 2.3  DEFENSIVE PUBLICATION AS PRIOR ART. Consistent with Article I,
+the Works, together with this instrument, are publicly and irrevocably
+disclosed as prior art, with the express intent that the ideas,
+methods, and designs described herein enter the state of the art, so
+that no person or entity may lawfully claim, patent, or otherwise
+assert exclusive ownership over them on the basis of having originated
+them.
 
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
+S 2.4  IRREVOCABILITY AND FREE EXPRESSION. This declaration, and the
+public disclosure of the Works, are made pursuant to, and in exercise
+of, my rights to free expression under applicable law, and are intended
+by me to be permanent and irrevocable once published. I do not consent
+to, and reserve no right to compel, the suppression, retraction, or
+removal of this disclosure. This Section states solely my own
+irrevocable intent and consent as author, and does not purport to limit
+or override the independent legal rights or obligations of any third
+party or hosting platform.
 
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
+S 2.5  NO CONFLICT WITH THE GRANT. This Article is a personal
+declaration of the license holder. It does not affect, narrow, or
+expand who may use the Works or how -- that question is governed
+exclusively by Article III. A public, irrevocable disclosure of the
+Works as prior art is not an invitation for excluded entities to use
+them; it is a statement that no one, including an excluded entity, may
+patent them.
 
-   END OF TERMS AND CONDITIONS
+S 2.6  HONESTY OF THE RECORD. Consistent with the Works' own stated
+method, this declaration does not claim results beyond what the Works
+themselves report. The light-field nucleation-bias hypothesis was
+tested against real glycine NPLIN data and found negligible at
+realistic conditions; the diamond CVD fabrication-time projection is a
+proposed novel combination of independently published, confirmed
+techniques, not a system that has been built or tested as an integrated
+whole. This Article dedicates and protects the Works as they actually
+are, not as they might be oversold to be.
 
-   APPENDIX: How to apply the Apache License to your work.
 
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
+========================================================================
+              Article III -- The Grant
+========================================================================
 
-   Copyright [yyyy] [name of copyright owner]
+This License grants a single, unified right of use. There are no tiers.
+Permission for an entity excluded under S 3.2 is granted, if at all,
+solely and personally by the license holder, in writing, on a
+case-by-case basis. It does not arise from payment, prior dealing,
+usage, or implication.
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+S 3.1  ELIGIBLE USERS. The Works may be used, studied, modified, and
+distributed, free of charge and without separate permission, only by:
 
-       http://www.apache.org/licenses/LICENSE-2.0
+  (a) natural persons, acting in their individual capacity; and
+  (b) non-profit organizations duly registered or recognized as such
+      under the law of their jurisdiction, acting in furtherance of
+      their non-profit purpose.
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+S 3.2  EXCLUDED USERS. Any company, corporation, partnership, limited
+liability company, or other for-profit commercial entity -- and any
+person acting on behalf of such an entity, in that capacity -- is
+FORBIDDEN from using the Works in any way, for any purpose, whether
+commercial or non-commercial, UNLESS AND UNTIL the license holder grants
+that specific, named entity permission in writing. There is no standard
+fee, rate card, or automatic path to permission. Permission is at the
+license holder's sole discretion and may be granted, withheld,
+conditioned, or revoked as the license holder sees fit. Written
+permission granted to one entity does not extend to any affiliate,
+subsidiary, parent, successor, or other entity absent express terms
+saying so.
+
+S 3.3  ATTRIBUTION. Attribution to the license holder and the Work name
+must be preserved in all copies and derivative works made by eligible
+users under S 3.1, or by an excluded entity under a written permission
+issued under S 3.2. The 75th Avenue License v3.0 and its issuance
+number must also be cited, per the notice text in Article VI.
+
+S 3.4  DERIVATIVE WORKS. Derivative works must be distributed under
+this same License, and remain subject to the same eligibility
+restriction of S 3.1-3.2. An eligible user may not sublicense,
+relicense, or otherwise pass on rights to an excluded entity; a
+permitted entity under S 3.2 may not pass on rights beyond what its
+written permission expressly allows.
+
+S 3.5  NAME AND MARK. The Work name and the license holder's name or
+designation may not be used in any product, service, marketing, or
+branding by any party -- eligible or permitted -- without the license
+holder's separate written consent.
+
+
+========================================================================
+              Article IV -- Prohibitions Absolute
+========================================================================
+
+The following uses are FORBIDDEN under this License and under all
+issuances of it, regardless of whether the user is otherwise eligible
+under Article III or holds written permission under S 3.2. They cannot
+be purchased, waived, or negotiated away by any party -- including the
+license holder.
+
+  [X] AI TRAINING USE
+      The Works, their models, source code, data, documentation, and
+      any output produced by them may not be used as training data,
+      fine-tuning data, evaluation data, or any form of machine
+      learning corpus -- in whole or in part -- without a separately
+      negotiated written instrument expressly authorising this use.
+
+  [X] SURVEILLANCE
+      The Works may not be used, directly or indirectly, to build,
+      power, or enhance any system designed to monitor, track, profile,
+      or surveil individuals without their knowledge and explicit
+      ongoing consent.
+
+  [X] DISINFORMATION AND MANIPULATION
+      The Works may not be used to produce, distribute, or amplify
+      false information; to manufacture synthetic media intended to
+      deceive; or to build systems designed to psychologically
+      manipulate individuals against their own interests. This
+      includes misrepresenting the tested, negative light-field
+      nucleation result as a positive one, or overstating the diamond
+      CVD fabrication-time projection as a built or measured result.
+
+  [X] PATENT FILING
+      No license holder, licensee, permitted entity, contractor,
+      partner, or successor may file any patent claim that reads upon
+      the concepts, models, methods, or combinations of techniques
+      disclosed in any Work under this License. Violation of this
+      provision constitutes immediate and permanent termination of all
+      rights under this issuance, without notice.
+
+
+========================================================================
+              Article V -- The Patent Shield
+========================================================================
+
+S 5.1  The license holder expressly waives the right to patent any
+concept substantially described in the Works named in this issuance.
+This waiver is IRREVOCABLE. The license holder retains full copyright
+ownership, authorship rights, moral rights, and all commercial rights
+not expressly granted herein.
+
+S 5.2  Any patent application filed by any party that claims ownership
+of any concept substantially described in the Works shall be considered
+invalid by prior art, and the filing party shall be in material breach
+of this License.
+
+S 5.3  IACONOUS WORTHYSON, as author of this instrument, bears no
+liability for patent disputes arising from the Works of the license
+holder. The patent shield is granted to the license holder as a
+framework; its enforcement is the responsibility of the license holder.
+
+
+========================================================================
+              Article VI -- Attribution and the Name
+========================================================================
+
+S 6.1  All uses of the Works must carry the following notice,
+unmodified:
+
+    LightForge -- "The Journey: Building Diamonds With Light" -- Created
+    by IACONOUS WORTHYSON . Licensed under The 75th Avenue License v3.0
+    . Issuance No. 75AV-3-__________
+
+S 6.2  The 75th Avenue name, the name IACONOUS WORTHYSON, and the
+issuance number carried by this instrument must not be altered,
+removed, or misrepresented in any copy or derivative of the Works.
+
+S 6.3  The issuance number is a unique identifier assigned by IACONOUS
+WORTHYSON. It is proof of legitimate acquisition of this License. It
+may be verified against the 75th Avenue issuance register.
+
+
+========================================================================
+              Article VII -- Duration
+========================================================================
+
+S 7.1  This License is perpetual from the date of issuance.
+        NO TIERS. ONE PROJECT. PERMANENT. NO CHANGE DATE. NO SUNSET.
+
+S 7.2  There is no Change Date. This License does not expire, lapse, or
+convert to the Mozilla Public License 2.0, or to any other license, at
+any time, under any circumstance. The eligibility restriction of
+Article III and the prohibitions of Article IV apply in perpetuity.
+
+S 7.3  This issuance is non-transferable. It governs one named project
+only. A new project requires a new issuance.
+
+S 7.4  Termination for breach of Article III or Article IV is automatic
+and requires no notice. Termination of one party's rights does not
+affect the rights of any other party.
+
+
+========================================================================
+              Article VIII -- Sole Authorship of the Works
+========================================================================
+
+S 8.1  The license holder declares, by accepting this issuance, that
+they are the sole author of the Works named herein, or hold all
+necessary rights to govern those Works under this License. No
+co-inventor, partner, employer, contractor, or institutional affiliate
+holds any authorship right or ownership right in the Works by virtue
+of association, funding, or administrative relationship, unless
+expressly declared.
+
+S 8.2  IACONOUS WORTHYSON bears no liability for misrepresentation of
+authorship by the license holder.
+
+
+========================================================================
+              Article IX -- The Instrument Author
+========================================================================
+
+S 9.1  This License was authored by IACONOUS WORTHYSON under the 75th
+Avenue licensing framework. The authorship of this instrument is
+separate from the authorship of the Works it governs, except where, as
+in this issuance and per Article II, the license holder and the
+instrument author are declared to be the same person.
+
+S 9.2  IACONOUS WORTHYSON holds full copyright over the text and
+structure of this License instrument itself. The instrument may not be
+copied, modified, or reissued without authorisation from IACONOUS
+WORTHYSON.
+
+S 9.3  Use of this License does not constitute endorsement of the
+license holder's Works by IACONOUS WORTHYSON.
+
+
+========================================================================
+              Article X -- Disclaimer of Warranty
+========================================================================
+
+THE WORKS ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTY OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR
+NON-INFRINGEMENT. NEITHER THE LICENSE HOLDER NOR IACONOUS WORTHYSON
+SHALL BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+FROM USE OF THE WORKS. THE PROJECTED FABRICATION-TIME AND CALIBRATION
+FIGURES CONTAINED IN THE WORKS ARE ESTIMATES AND TESTED MODELS, NOT
+MEASURED OR PEER-REVIEWED RESULTS, AND ARE PROVIDED WITHOUT ANY
+GUARANTEE OF REPRODUCIBILITY IN A PHYSICAL SYSTEM.
+
+
+========================================================================
+
+                    So it is written. So it stands.
+
+              IACONOUS WORTHYSON (Elad David Levi) . 75th Avenue . Jerusalem . MMXXVI
+                    Author of the Instrument and, in this issuance, of the Works
+
+========================================================================
