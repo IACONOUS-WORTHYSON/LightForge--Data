@@ -1,0 +1,26 @@
+{
+  "material": {
+    "name": "ILLUSTRATIVE ONLY -- carbon/diamond v_m substituted into the aqueous-solution glycine CNT framework; NOT a real diamond-formation model (diamond does not nucleate from aqueous solution -- see disclaimer)",
+    "gamma": 1.3e-2,
+    "v_m": 5.674177734231885e-30,
+    "T": 298.15,
+    "A_prefactor": 1e20,
+    "n_solvent": 1.33,
+    "n_solid": 2.417
+  },
+  "light": {
+    "wavelength_nm": 1064.0,
+    "pulse_energy_J": 0.02821092743768546,
+    "spot_diameter_m": 0.001,
+    "pulse_duration_s": 6e-9,
+    "n_pulses": 600,
+    "coupling_efficiency": 15.0306,
+    "pulse_shape_factor": 1.0,
+    "S_peak": 1.4,
+    "bell_width": 0.02
+  },
+  "geometry": {
+    "volume_m3": 8.639e-9,
+    "exposure_time_s": 60.0
+  }
+}
