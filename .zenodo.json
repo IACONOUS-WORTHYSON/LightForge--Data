@@ -1,0 +1,32 @@
+{
+  "title": "LightForge -- The Journey: Building Diamonds With Light",
+  "description": "Light-field / non-photochemical laser-induced nucleation (NPLIN) models calibrated against real glycine data (Javid et al. 2016, Cryst. Growth Des.), including the honest negative result of the light-field nucleation-bias hypothesis test against that data. Also includes a diamond CVD fabrication-time model grounded in published UV-assisted growth (Lu et al. 2017, Light: Sci. Appl.) and femtosecond-laser seeding/defect-correction literature, projecting a novel but untested combination of confirmed techniques. Author also known as IACONOUS WORTHYSON. Licensed under The 75th Avenue License v3.0 -- free for individuals and non-profits, companies require written permission.",
+  "creators": [
+    {
+      "name": "Levi, Elad David",
+      "affiliation": "75th Avenue"
+    }
+  ],
+  "access_right": "open",
+  "license": "other-closed",
+  "upload_type": "software",
+  "keywords": [
+    "diamond CVD",
+    "chemical vapor deposition",
+    "NPLIN",
+    "non-photochemical laser-induced nucleation",
+    "classical nucleation theory",
+    "light-field nucleation",
+    "glycine",
+    "femtosecond laser",
+    "UV-assisted growth",
+    "prior art"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/IACONOUS-WORTHYSON/LightForge--Data",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}
